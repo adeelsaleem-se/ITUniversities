@@ -1,0 +1,99 @@
+.menu{
+			height:50px;
+            width:1000px;
+			margin:1;
+			align:center;
+			}
+		.lefti{
+			height:50px;
+            width:150px;
+			margin:1;
+			background-color:;
+			float:left;
+			}
+		.righti{
+			height:50px;
+            width:150px;
+			margin:1;
+			background-color:;
+			float:left;
+			}
+		.logo{
+			height:50px;
+            width:390px;
+			margin:1;
+			background-color:;
+			float:left;
+			}
+		.m-t-m-l{
+				margin-top:40px;
+				color:#535b61;
+				font-size:23px;
+				font-family: Calibri;
+				text-align:center;
+			}
+		.m-t-m-r{
+				margin-top:40px;
+				color:#535b61;
+				font-size:23px;
+				font-family: Calibri;
+				text-align:center;
+			}
+		.m-t-m-c{
+				margin-top:30px;
+				color:#535b61;
+				font-family: Calibri;
+				font-size:35;
+				}
+			h3:hover{
+				font-family: Calibri;
+				text-align:center;
+				margin-top:40px;
+				font-size:25px;
+				color:#3276ef;
+			}
+			.img{
+				height:190px;
+                width:1200px;
+				}
+				.pucit{
+			height:250px;
+			width:1200px;
+		}
+		.img1{
+			height:240px;
+			width:350px;
+			float:left;
+		}
+		.img1:hover{
+			height:245px;
+			width:355px;
+			float:left;
+		}
+		p{
+			font-size:20px;
+			font-family: Calibri;
+			margin-left:20px;
+			text-align:left;
+			color:black;
+		}
+		p:hover{
+			font-size:20px;
+			font-family: Calibri;
+			margin-left:20px;
+			text-align:left;
+			color:gray;
+		}
+		.container {
+					position: relative;
+					text-align: center;
+					color: white;
+					margin-top:0px;
+					}
+
+		.centered {
+				position: absolute;
+				top: 45px;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				}

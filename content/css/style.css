@@ -1,0 +1,160 @@
+			
+			
+			
+			.menu{
+			height:50px;
+            width:1000px;
+			margin:1;
+			align:center;
+			}
+		.lefti{
+			height:50px;
+            width:150px;
+			margin:1;
+			background-color:;
+			float:left;
+			}
+		.righti{
+			height:50px;
+            width:150px;
+			margin:1;
+			background-color:;
+			float:left;
+			}
+		.logo{
+			height:50px;
+            width:390px;
+			margin:1;
+			background-color:;
+			float:left;
+			}
+		.m-t-m-l{
+				margin-top:40px;
+				color:#535b61;
+				font-size:23px;
+				font-family: Calibri;
+				text-align:center;
+			}
+		.m-t-m-r{
+				margin-top:40px;
+				color:#535b61;
+				font-size:23px;
+				font-family: Calibri;
+				text-align:center;
+			}
+		.m-t-m-c{
+				margin-top:30px;
+				color:#535b61;
+				font-family: Calibri;
+				font-size:35;
+				}
+			.hh3:hover{
+				font-family: Calibri;
+				text-align:center;
+				margin-top:40px;
+				font-size:25px;
+				color:#3276ef;
+			}
+			.banner{
+				background-color:;
+				height:150px;
+                width:1200px;
+				align:center;
+				
+			}
+            .main{
+                height:500px;
+                width:700px;
+				align:center;
+                }
+			.main1{
+                background-color:green;
+                height:500px;
+                width:200px;
+				float:left;
+				text-align:center;
+				margin:5;
+                }
+		   .iboxt:hover{
+				font-size:18px;
+				background-color:#afb3b3;
+				font-family: Calibri;
+				}
+			.ibox:hover, .ibox1:hover{
+				font-size:18px;
+				background-color:#afb3b3;
+				font-family: Calibri;
+				}
+			.iboxt{
+				height:100px;
+                width:238px;
+				margin:1;
+				float:left;
+				text-align:center;
+				background-color:#c4c7c7;
+				font-family: Calibri;
+				
+				
+				}
+			.ibox{
+				height:100px;
+                width:238px;
+				margin:1;
+				float:left;
+				text-align:center;
+				background-color:#e6e9ec;
+				font-family: Calibri;
+				}
+			.ibox1{
+				height:100px;
+                width:238px;
+				margin:1;
+				float:left;
+				text-align:center;
+				background-color:#d9dcde;
+				font-family: Calibri;
+				}
+			.pbox{
+				height:100px;
+                width:1200px;
+				}
+			.m-t{
+				margin-top:30px;
+				color:#535b61;
+				font-family: Calibri;
+				}
+			.c-m-t{
+				margin-top:20px;
+				color:#535b61;
+				font-family: Calibri;
+				}
+			.m-t-i{
+				margin-top:40px;
+				color:#535b61;
+				font-size:22px;
+				font-family: Calibri;
+				}
+				img{
+				height:565px;
+                width:1200px;
+				}
+				.container {
+					position: relative;
+					text-align: center;
+					color: white;
+					margin-top:0px;
+					}
+
+		.centered {
+				position: absolute;
+				top: 45px;
+				transform: translate(-50%, -50%);
+				}
+				h3:hover{
+				font-family: Calibri;
+				text-align:center;
+				margin-top:40px;
+				font-size:25px;
+				color:#3276ef;
+				}
+				
